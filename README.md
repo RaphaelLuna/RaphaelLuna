@@ -26,7 +26,6 @@
   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelLuna&hide_progress=true&theme=dracula">
 </div>
 
-![snake gif](https://github.com/RaphaelLuna/RaphaelLuna/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **RaphaelLuna/RaphaelLuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
