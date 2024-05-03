@@ -1,5 +1,17 @@
-### Hi there 👋
+## Hello, I am Raphael de Luna, a MBA in Data Engineering student. 👨🏽‍💻 ✌️
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-de-luna-0760251b7/)
+[![Curriculo](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://drive.google.com/file/d/18MvpgmiX-69wNiIFuw0qdz0Qa48JG_ZV/view?usp=sharing)  ⬅️ My Resume 
 
+##### English - With a background in database management, I've gained knowledge and skills in various technologies such as Python, database modeling (Oracle SQL Data Modeler), SQL, DDL, and DML commands (Oracle SQL Developer). Additionally, I have experience with NoSQL using Redis and MongoDB, ETL, Pipelines, Lambda Architecture, Data Lake, and Warehouse, both on-premises (PostgreSQL and Docker) and in the cloud (Amazon Redshift).
+
+##### Português - Sou um profissional em progressão de carreira da área financeira para a área de dados. Formado em banco de dados pela FIAP, o que me permitiu adquirir conhecimento em tecnologias como Python, modelagem de banco de dados usando Oracle Data Modeler, SQL comandos DDL e DML usando Oracle Developer, NoSQL com Redis e MongoDB, ETL, Pipelines, Arquitetura Lambda, Data Lake e Warehouse, tanto em ambientes locais (PostgreSQL e Docker) quanto em nuvem (Amazon Redshift).
+<br/>
+
+
+
+![Raphael's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaphaelLuna&show_icons=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelLuna&hide_progress=true)
 <!--
 **RaphaelLuna/RaphaelLuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
