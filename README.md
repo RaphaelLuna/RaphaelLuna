@@ -1,5 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Raphael+de+Luna&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Raphael+de+Luna&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/><br/>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=+I+am+a+MBA+Data+Engineer+student.;I+hold+a+degree+in+Database+and+Big+data.;I+am+currently+based+in+Sydney!;Welcome!+:%29)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-de-luna-0760251b7/)
