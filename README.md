@@ -8,7 +8,8 @@
 ![MBA in Data Engineering](https://img.shields.io/badge/MBA-Data_Engineering-orange)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-005C84?logo=postgresql&logoColor=white)
-![Spark](https://img.shields.io/badge/Apache_Spark-FDEE21?logo=apachespark&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power%20BI-FAE300?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?logo=apacheairflow&logoColor=white)
 ![Cloud](https://img.shields.io/badge/Cloud-AWS_&_Azure-brightgreen)
 
