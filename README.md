@@ -6,12 +6,7 @@
 
 ![Forensic Data Analyst](https://img.shields.io/badge/Role-Forensic_Data_Analyst-blueviolet)
 ![MBA in Data Engineering](https://img.shields.io/badge/MBA-Data_Engineering-orange)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-005C84?logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-FAE300?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?logo=apacheairflow&logoColor=white)
-![Cloud](https://img.shields.io/badge/Cloud-AWS_&_Azure-brightgreen)
+
 ---
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
