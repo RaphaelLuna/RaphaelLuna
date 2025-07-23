@@ -4,9 +4,27 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-de-luna-0760251b7/)
 [![Curriculo](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://drive.google.com/file/d/18MvpgmiX-69wNiIFuw0qdz0Qa48JG_ZV/view?usp=sharing)  ⬅️ My Resume 
 
-##### English - I'm a professional transitioning into the data field. With a background in database management, I've gained knowledge and skills in various technologies such as Python, database modeling (Oracle SQL Data Modeler), SQL, DDL, and DML commands (Oracle SQL Developer). Additionally, I have experience with NoSQL using Redis and MongoDB, ETL, Pipelines, Lambda Architecture, Data Lake, and Warehouse, both on-premises (PostgreSQL and Docker) and in the cloud (Amazon Redshift).
+#####
 
-##### Português - Sou um profissional em progressão de carreira da área financeira para a área de dados. Formado em banco de dados pela FIAP, o que me permitiu adquirir conhecimento em tecnologias como Python, modelagem de banco de dados usando Oracle Data Modeler, SQL comandos DDL e DML usando Oracle Developer, NoSQL com Redis e MongoDB, ETL, Pipelines, Arquitetura Lambda, Data Lake e Warehouse, tanto em ambientes locais (PostgreSQL e Docker) quanto em nuvem (Amazon Redshift).
+## 👋 Hi, I'm Raphael Luna
+
+🎯 Forensic Data Analyst at BDO | Data Engineering Enthusiast
+📚 MBA in Data Engineering
+🛠️ Working with Python, Tableau, SQL, Airflow, Spark, and Cloud Tools
+🔍 Interested in data pipelines, fraud detection, and automation
+
+### 🚀 What I’m working on:
+
+* Building scalable data workflows
+* Using Python for forensic investigations and anomaly detection (Benford's Law, Isolation Forest, Pareto analysis)
+* Learning more about Databricks and RPA tools
+
+
+### 📫 How to reach me:
+
+* [LinkedIn](https://www.linkedin.com/in/raphael-de-luna/)
+
+
 
 <div style="display: inline_block">
 <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg">
