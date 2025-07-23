@@ -31,21 +31,13 @@
 - Advanced Python for data engineering and automation  
 - Cloud services (AWS, Azure) for big data workloads  
 - ML techniques applied to forensic data analysis
-
----
-
-### 📊 GitHub Stats
-
-<!-- Replace with your GitHub username -->
-![Raphael's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
-
+  
 ---
 
 ### 📫 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/raphael-de-luna)
-[![Email](https://img.shields.io/badge/Email-raphael@email.com-blue?logo=gmail)](mailto:raphael@email.com)
+
 
 
 <div style="display: inline_block">
@@ -64,6 +56,8 @@
 <br/>
 <br/>
 <div> 
+  ### 📊 GitHub Stats
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaphaelLuna&show_icons=true&theme=dracula">
   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelLuna&hide_progress=true&theme=dracula">
 </div>
